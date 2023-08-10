@@ -39,10 +39,31 @@ Essa API tem como objetivo atender ao back end de um evento onde os usuários po
 [Perfil LinkedIn](https://www.linkedin.com/in/olavo-marques-6421ab123)
 
 ### Stacks Usadas
-<div>
+
  <img src="https://img.icons8.com/color/50/visual-studio-code-2019.png">
  <img src="https://img.icons8.com/color/50/typescript.png">
  <img src="https://img.icons8.com/fluency/50/node-js.png">
  <img src="https://img.icons8.com/fluency/50/my-sql.png">
  <img src="https://img.icons8.com/ios-filled/50/github.png">
-</div>
+
+### Requisição Signup
+ <img src="./src/assets/lama-signup.png">
+ 
+ 
+### Requisição Login
+ <img src="./src/assets/lama-login.png">
+ 
+ 
+### Requisição Criação Show
+ <img src="./src/assets/lama-cração-show.png">
+
+ 
+### Requisição Todos os Shows
+ <img src="./src/assets/lama-todos-shows.png">
+ 
+### Requisição Reserva de Ingresso
+ <img src="./src/assets/lama-reserva-ingresso.png">
+ 
+ 
+### Requisição Deletar reseva de ingresso
+ <img src="./src/assets/lama-delete-reserva.png">
